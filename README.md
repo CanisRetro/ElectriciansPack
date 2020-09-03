@@ -1,7 +1,7 @@
 # ElectriciansPack
 Electricians Pack Mod for Satisfactory
 
-#### Phase_1:
+## Phase_1:
   --Disconnect (1[i]-1[o]) 
 	-"Emergency" Simple ( Disconnect / Connect 2 built in nodes)
   --Distribution Center(1[i]-n[o])
@@ -10,7 +10,7 @@ Electricians Pack Mod for Satisfactory
 
   --Fix MWh vs MW text.
 
-#### Phase_2:
+## Phase_2:
 
   --Power Meters(Volume & Rate of Power through that node only)
 
@@ -25,7 +25,7 @@ Electricians Pack Mod for Satisfactory
 	-eg. PowerWall Like
 		- Treat like power plants but Timed or Capacity.
 			No output if powered
-#### Phase_3:
+## Phase_3:
   --Smart Disconnect
 	-User Provided Custom Names
 	-Specified Trip Notifications
@@ -36,7 +36,7 @@ Electricians Pack Mod for Satisfactory
 	-Control Smart Meters
 	-Show Volume, Rate, Condition at Smart Disconnects
 
-#### Phase_4:
+## Phase_4:
   --Powered Conveyer
 		ex. A Smelter has a power cable connected, 
                     powered conveyer means the connected/ downstream constuctor gets power
@@ -50,11 +50,11 @@ Electricians Pack Mod for Satisfactory
 	- Smaller Version of pipe, carries electricity
 	- Wall & Ceiling mount
 
-#### Phase_5:
+## Phase_5:
   --Cold Load Pick-Up Delay for Smart Meters
 	-Used to prevent the 'Spike' upon power on of full grid
 
-#### Just For Fun / Maybe:
+## Just For Fun / Maybe:
   --Proper EVs
 	-EVSE
 	-Only Rechargable at Chargepoints
