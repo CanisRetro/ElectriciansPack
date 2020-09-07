@@ -36,7 +36,7 @@ Every effort is made to provide a bug and crash free experience, but if you expe
 	  + Specified Trip Notifications
 	  + Auto Reset (Attempt Interval)
   + Smart Control Hub
-	  + Like the MoarFactory Tablet
+	  + Like the MoarFactory Tablet (https://github.com/klangzwang/MoarDevice)
 	  + Building
 	  + Control Smart Meters
 	  + Show Volume, Rate, Condition at Smart Disconnects
