@@ -1,6 +1,15 @@
 # ElectriciansPack
-Satisfactory mod to expand the in-game electricity management features
+Satisfactory mod to expand the in-game electricity management features. Written in C++ with custom models made in Blender.
 
+Currently working solo, help me out if you want. Discord: 
+
+CanisRetro#6209
+
+# W.I.P
+### Bog Standard Work In Progress Disclaimer. 
+Every effort is made to provide a bug and crash free experience, but if you expect a perfect experience while modding you've got another thing coming.
+
+# Features & ROADMAP
 ## Phase_1:
   + Disconnect (1[i]-1[o]) 
     + "Emergency" Simple ( Disconnect / Connect 2 built in nodes)
@@ -49,4 +58,3 @@ Satisfactory mod to expand the in-game electricity management features
   + Proper EVs
     + EVSE
     + Only Rechargable at Chargepoints
-    
